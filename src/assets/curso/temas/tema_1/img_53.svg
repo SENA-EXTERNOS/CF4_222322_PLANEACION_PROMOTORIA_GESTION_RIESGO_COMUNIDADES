@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="95" height="95" viewBox="0 0 95 95">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_5293" data-name="Elipse 5293" cx="47.5" cy="47.5" r="47.5" transform="translate(753.821 442.821)" fill="#e8e8e8"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_294284" data-name="Rectángulo 294284" width="169.201" height="98.689" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_87" data-name="Enmascarar grupo 87" transform="translate(-753.821 -442.821)" clip-path="url(#clip-path)">
+    <g id="SWEDEN" transform="translate(729.543 443.248)">
+      <g id="Grupo_882186" data-name="Grupo 882186" transform="translate(0)">
+        <g id="Grupo_882185" data-name="Grupo 882185">
+          <g id="Grupo_882184" data-name="Grupo 882184" clip-path="url(#clip-path-2)">
+            <rect id="Rectángulo_294281" data-name="Rectángulo 294281" width="169.201" height="98.689" fill="#2d5a95"/>
+            <rect id="Rectángulo_294282" data-name="Rectángulo 294282" width="19.75" height="98.689" transform="translate(49.348)" fill="#f3d02f"/>
+            <rect id="Rectángulo_294283" data-name="Rectángulo 294283" width="169.201" height="19.736" transform="translate(0 39.477)" fill="#f3d02f"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

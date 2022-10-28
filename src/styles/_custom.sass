@@ -1,14 +1,19 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: rotate 5s linear infinite
     position: absolute
-    top: 40%
-    right: 50%
+    top: 66%
+    right: 90%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: rotate 2s linear infinite
     position: absolute
-    top: 51%
-    right: 30%
+    top: 49%
+    right: 2%
+  &-3
+    animation: rotate 4s linear infinite
+    position: absolute
+    top: 2%
+    right: 31%
 
 
 @keyframes float1
@@ -17,3 +22,148 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes rotate 
+  0%
+    transform: rotate(0)
+
+  100%
+    transform: rotate(360deg)
+
+.titulo-principal.color-acento-contenido span
+  color: white !important; 
+
+.img-a 
+  display: block 
+  margin: auto   
+  width: auto
+  height: auto
+
+.fondo-1
+  background-image: url('../assets/curso/temas/tema_1/img_2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  p 
+    color: white
+
+.fondo-2
+  background-image: url('../assets/curso/temas/tema_1/img_8.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-inline: -3.2rem 
+
+.fondo-3
+  background-image: url('../assets/curso/temas/tema_1/img_8.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+
+.fondo-4
+  background-image: url('../assets/curso/temas/tema_1/img_28.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-inline: -3.2rem 
+
+.fondo-5
+  background-image: url('../assets/curso/temas/tema_1/img_31.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  p 
+    color: white
+
+.fondo-6
+  background-color: #F3F9FF
+  margin-inline: -3.2rem 
+  .slyder-f__btn i
+    color: #707BA3
+
+.fondo-7
+  background-image: url('../assets/curso/temas/tema_1/img_52.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+.fondo-8
+  background-image: url('../assets/curso/temas/tema_1/img_60.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+
+.mog
+  background-color: #C2E3DF !important
+
+.bg_1
+  background-color: #E8E8E8
+
+.bg_2
+  background-color: #F6F6F6
+
+.bg_3
+  background-color: #222B5A  
+  .slyder-f__btn i
+    color: #B0C0D2
+
+.bg_4
+  background-color: White
+
+.bg_5
+  background-color: #D2E1F1
+
+
+
+.cajon.color-secundario:before
+  background-color: #727997 !important
+
+.cajon.color-secundario
+    background-color: #DEE4F0
+
+.cajon.color-primario
+  background-color: #C4E4E1
+
+@media only screen and (max-width: 992px)
+  .m-left
+    left: 0 !important  
+
+.m-left
+  left: 50% !important
+
+.txt-g
+  justify-content: flex-start !important
+
+.bloque-g-txt
+  justify-content: flex-end !important  
+  position: relative;
+  width: 100%;
+  margin-right: 238px;
+
+.txt_1
+  color: #179587
+
+.bg_txt_1
+  background-color: #DFF0EF
+
+.horizontal-scroll
+  align-items: stretch!important
+
+.bloque-texto-b.color-secundario:before 
+    background-color: #D2E1F1
+    opacity: 25%
+
+.acordion
+  .tarjeta--azul
+    background-color: #F3F9FF
+  .acordion__activo
+    background-color: #D2E1F1 !important
+
+.bg_sp
+  background-color: white
+  .acordion
+    .bg_1
+      background-color: #F6F6F6
+    .acordion__activo
+      background-color: #E8E8E8!important
+
+.linea-tiempo-b__icon img 
+  width: 94%;
+
+.titulo-sexto.color-acento-contenido
+  border-left-color: #FF6B00

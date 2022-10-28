@@ -1,4 +1,4 @@
-# **sena-base-2021 v6.2.1**
+# **Planeación y promotoría para gestión del riesgo en comunidades**
 
 ## **Enlace GitHubPages**
 
