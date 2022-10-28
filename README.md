@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF4_222322_PLANEACION_PROMOTORIA_GESTION_RIESGO_COMUNIDADES/#/](https://sena-externos.github.io/CF4_222322_PLANEACION_PROMOTORIA_GESTION_RIESGO_COMUNIDADES/#/)
 
 #
 
