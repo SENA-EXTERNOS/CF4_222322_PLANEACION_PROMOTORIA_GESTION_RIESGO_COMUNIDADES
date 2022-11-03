@@ -29,7 +29,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_1/img_5.svg' alt='AvatarTop')
           .tarjeta.mog
-            .p-4 
+            .p-4.pad
               h5.text-center  Personas que pueden trabajar.
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-left")
         .tarjeta-avatar
@@ -118,14 +118,14 @@
           .py-3.py-md-4(titulo="Participación por incentivos")
             .row.justify-content-center.align-items-center
               .col-md-4.mb-4.mb-md-0(data-aos="fade-right")
-                img.img-a(src='@/assets/curso/temas/tema_1/img_15.png', alt='Texto que describa la imagen')
+                img.img-a(src='@/assets/curso/temas/tema_1/img_16.png', alt='Texto que describa la imagen')
               .col-md-6(data-aos="fade-left")
                 h4 Participación por incentivos
                 p Consiste en proveer recursos materiales por trabajo (alimentos, dinero, entre otros).
           .py-3.py-md-4(titulo="Participación funcional")
             .row.justify-content-center.align-items-center
               .col-md-4.mb-4.mb-md-0(data-aos="fade-right")
-                img.img-a(src='@/assets/curso/temas/tema_1/img_16.png', alt='Texto que describa la imagen')
+                img.img-a(src='@/assets/curso/temas/tema_1/img_15.png', alt='Texto que describa la imagen')
               .col-md-6(data-aos="fade-left")
                 h4 Participación funcional
                 p En este momento los grupos desarrollan acciones y análisis en conjunto, logrando la formulación de planes estratégicos y el fortalecimiento de las comunidades locales.
@@ -511,12 +511,12 @@
 
     .row.justify-content-center.mb-5
       .col-lg-11
-        .bloque-texto-g.color-primario.p-5.p-sm-5.p-md-5
+        .bloque-texto-g.color-primario.p-5.p-sm-4.p-md-5
           .bloque-texto-g__img.m-left(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_51.png')})`}"
           )
-          .bloque-texto-g__texto.py-5.px-3.txt-g.bloque-g-txt
-            p.mb-0 El Ministerio de ambiente y desarrollo sostenible de Colombia (2020), viene implementado el programa Promotores ambientales comunitarios, como una herramienta para el cumplimiento de la estrategia contenida en la Política nacional de educación ambiental, denominada Formación de educadores y dinamizadores ambientales, cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos, que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, buscando dinamizar las entidades territoriales, con la garante de construir una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
+          .bloque-texto-g__texto.py-5.px-3.txt-g.bloque-g-txt.txt_caj
+            p.mb-0.text-small El Ministerio de ambiente y desarrollo sostenible de Colombia (2020), viene implementado el programa Promotores ambientales comunitarios, como una herramienta para el cumplimiento de la estrategia contenida en la Política nacional de educación ambiental, denominada Formación de educadores y dinamizadores ambientales, cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos, que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, buscando dinamizar las entidades territoriales, con la garante de construir una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
 
 
     separador
