@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Planeación y promotoría para gestión del riesgo en comunidades',
     descripcionCurso:
-      'En este componente formativo podrá reconocer las bases para realizar la planeación y promotoría del plan de gestión del riesgo, en el cual se tenga presente la participación ciudadana, los mecanismos y estrategias de capacitación y concientización en educación ambiental para la prevención del riesgo de desastres',
+      'En este componente formativo podrá reconocer las bases para realizar la planeación y promotoría del plan de gestión del riesgo, en el cual se tenga presente la participación ciudadana, los mecanismos y estrategias de capacitación y concientización en educación ambiental para la prevención del riesgo de desastres.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -107,21 +107,21 @@ export default {
     {
       tema: 'Participación ciudadana.',
       referencia:
-        'Fundación espacio cívico. (2 de diciembre de 2020). ¿Qué es la participación ciudadana? [Archivo de video]. YouTube. ',
+        'Fundación espacio cívico. (2 de diciembre de 2020). <em>¿Qué es la participación ciudadana?</em> [Archivo de video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=cF2Mz6JZwc0',
     },
     {
       tema: 'Capacitación.',
       referencia:
-        'Capacitación.	Grupo Motiva. (18 de febrero de 2017). Método práctico de 4 pasos para capacitar y enseñar. [Archivo de video]. YouTube.',
+        'Capacitación.	Grupo Motiva. (18 de febrero de 2017). <em>Método práctico de 4 pasos para capacitar y enseñar</em>. [Archivo de video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=tEBp4u2kF9g',
     },
     {
       tema: 'Sensibilización.',
       referencia:
-        'Gutiérrez José. (10 de junio de 2020). Cómo hacer una campaña de sensibilización. [Archivo de video]. YouTube. ',
+        'Gutiérrez José. (10 de junio de 2020). <em>Cómo hacer una campaña de sensibilización.</em> [Archivo de video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=OYlgEGxR19c',
     },
@@ -199,7 +199,7 @@ export default {
 
     {
       referencia:
-        'López, M. & Campos, A. (2015). La capacitación como instrumento potenciador para la gestión comunitaria. Revista de Ciencias Sociales (RCS), Vol 21. No. 1. Consultado de:',
+        'López, M. & Campos, A. (2015). La capacitación como instrumento potenciador para la gestión comunitaria. <em>Revista de Ciencias Sociales (RCS), Vol 21. No. 1.</em> Consultado de:',
       link: 'https://www.redalyc.org/pdf/280/28037734015.pdf ',
     },
 
@@ -218,7 +218,7 @@ export default {
 
     {
       referencia:
-        'Ministerio del medio ambiente de Colombia (2020). Programa Nacional de Promotoría Ambiental Comunitaria. Página web institucional, sección noticias, del Ministerio del Medio ambiente. Recuperado el 13 de octubre de 2022, de:',
+        'Ministerio del medio ambiente de Colombia (2020). <em>Programa Nacional de Promotoría Ambiental Comunitaria</em>. Página web institucional, sección noticias, del Ministerio del Medio ambiente. Recuperado el 13 de octubre de 2022, de:',
       link: 'https://normas-apa.org/referencias/citar-pagina-web/',
     },
 

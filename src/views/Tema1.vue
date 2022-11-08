@@ -443,12 +443,12 @@
           .row.justify-content-center(titulo="Interacción")
             .col-lg-10
               p Las personas de la comunidad interactúan dentro de una sociedad más grande, en la cual comparten con otros grupos sociales.
-          .row.justify-content-center(titulo="Dinamica")
+          .row.justify-content-center(titulo="Dinámica")
             .col-lg-10
               p Las comunidades están en constante cambio.
 
     .fondo-6.p-4.mb-5
-      p.mb-5 En el Marco de Acción de Hyogo 2005 - 2015 llamado construyendo la Resiliencia de las Naciones y Comunidades frente a Desastres (MAH) muestra los elementos fundamentales para la GRD priorizados en cinco acciones para el logro de las metas estratégicas de la Conferencia Mundial sobre Reducción de Desastres.      
+      p.mb-5 Continuando con la temática, las comunidades entonces, se pueden clasificar de la siguiente manera:     
 
       SlyderF.mb-5(columnas="col-lg-4 col-xl-4").align-items-stretch.d-flex.h-100
         .tarjeta-avatar
@@ -656,13 +656,13 @@
                     span.fas.fa-angle-right
                     | Taller
 
-      .py-3.py-md-4(titulo="Técnicas para el aprendizaje asistido")
+      .py-3.py-md-4(titulo="Técnicas para el aprendizaje de aplicación")
         .row.justify-content-center.align-items-center
           .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
             img.img-a(src='@/assets/curso/temas/tema_1/img_66.png', alt='Texto que describa la imagen')
         
           .col-md-5(data-aos="fade-left")
-            h4 Técnicas para el aprendizaje asistido
+            h4 Técnicas para el aprendizaje de aplicación
             ul.lista-ul
               li 
                 span.fas.fa-angle-right
