@@ -408,7 +408,7 @@
           .bloque-texto-g__img.m-left(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_40.png')})`}"
           )
-          .bloque-texto-g__texto.py-5.px-3.txt-g.bloque-g-txt
+          .bloque-texto-g__texto.py-2.px-3.txt-g.bloque-g-txt
             p.mb-0 En las décadas recientes se ha venido avanzando en reconocer la diversidad de los grupos poblacionales que habitan en los territorios. 
             p Estos grupos son comunidades que viven en áreas específicas o tienen entre sí características similares. Centrando la atención en Colombia, existen diferentes segmentos poblacionales, en los cuales hay comunidades que comparten la misma raza y/o, pertenecen a la misma comunidad lingüística y cultural. 
 
@@ -515,7 +515,7 @@
           .bloque-texto-g__img.m-left(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_51.png')})`}"
           )
-          .bloque-texto-g__texto.py-5.px-3.txt-g.bloque-g-txt.txt_caj
+          .bloque-texto-g__texto.py-3.px-3.txt-g.bloque-g-txt.txt_caj
             p.mb-0.text-small El Ministerio de ambiente y desarrollo sostenible de Colombia (2020), viene implementado el programa Promotores ambientales comunitarios, como una herramienta para el cumplimiento de la estrategia contenida en la Política nacional de educación ambiental, denominada Formación de educadores y dinamizadores ambientales, cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos, que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, buscando dinamizar las entidades territoriales, con la garante de construir una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
 
 
