@@ -215,14 +215,16 @@
 
     h3.mb-5 Actores sociales
 
+    
     .row.justify-content-center.mb-5
-      .col-lg-11
-        .bloque-texto-g.color-secundario.p-5.p-sm-5.p-md-5
-          .bloque-texto-g__img.m-left(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_25.png')})`}"
-          )
-          .bloque-texto-g__texto.py-5.px-3.txt-g.bloque-g-txt
-            h5.mb-0 Representan sujetos activos que inciden en procesos económicos, culturales o políticos de la comunidad en la cual intervienen. #[.txt_1 Sus acciones están direccionadas a aportar valores al beneficio de la comunidad. ]
+      .col-lg-10.mb-4.mb-lg-0
+        .bloque-texto-a.color-primario.mt-5.bloque1_3.mb-5(style="background-color:transparent;position:relative;z-index:1;")
+          .row.m-0.align-items-center.justify-content-between(style="position:relative")
+            .col-lg-8.p-5.order-2.order-lg-0
+              .bloque-texto-a__texto.p-5(style="position:relative")
+                h5.mb-0(data-aos="fade-up") Representan sujetos activos que inciden en procesos económicos, culturales o políticos de la comunidad en la cual intervienen. <span style="color: #179587"> Sus acciones están direccionadas a aportar valores al beneficio de la comunidad. </span>
+
+
 
     .row.mb-5.align-items-center
       .col-lg-5.mb-4.mb-md-0(data-aos="fade-right")
@@ -402,16 +404,26 @@
 
     h3.mb-5 Grupos poblacionales
 
-    .row.justify-content-center.mb-5(data-aos="flip-right")
-      .col-lg-11
-        .bloque-texto-g.color-secundario.p-5.p-sm-5.p-md-5
+    .bloque-texto-a.color-primario.mt-5.bloque1_1.mb-5(style="background-color:transparent;position:relative;z-index:1;")
+      .row.m-0.align-items-center.justify-content-between(style="position:relative")
+        .col-lg-8.p-5.order-2.order-lg-0
+          .bloque-texto-a__texto.p-4(style="position:relative")
+            p.mb-0(data-aos="fade-up")  En las décadas recientes se ha venido avanzando en reconocer la diversidad de los grupos poblacionales que habitan en los territorios. 
+            p Estos grupos son comunidades que viven en áreas específicas o tienen entre sí características similares. Centrando la atención en Colombia, existen diferentes segmentos poblacionales, en los cuales hay comunidades que comparten la misma raza y/o, pertenecen a la misma comunidad lingüística y cultural. 
+        //.col-lg-4.mb-4.mb-lg-0.order-2.order-lg-0(style="position:relative")
+          //figure.text-center(style="position:relative")
+            img(src="@/assets/curso/temas/tema_1/img_40.png" data-aos="fade-left" style="max-width:350px;display:inline;position: relative;bottom: -9px;")
+
+    //.row.justify-content-center.mb-5(data-aos="flip-right")
+      .col-lg-12
+        .bloque-texto-g.color-secundario.p-5.p-sm-4.p-md-5
           .bloque-texto-g__img.m-left(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_40.png')})`}"
           )
-          .bloque-texto-g__texto.py-2.px-3.txt-g.bloque-g-txt
+          .bloque-texto-g__texto.py-5.px-5.txt-g.bloque-g-txt.text-small
             p.mb-0 En las décadas recientes se ha venido avanzando en reconocer la diversidad de los grupos poblacionales que habitan en los territorios. 
-            p Estos grupos son comunidades que viven en áreas específicas o tienen entre sí características similares. Centrando la atención en Colombia, existen diferentes segmentos poblacionales, en los cuales hay comunidades que comparten la misma raza y/o, pertenecen a la misma comunidad lingüística y cultural. 
-
+            p Estos grupos son comunidades que viven en áreas específicas o tienen entre sí características similares. Centrando la atención en Colombia, existen diferentes segmentos poblacionales, en los cuales hay comunidades que comparten la misma raza y/o, pertenecen a la misma comunidad lingüística y cultural.
+    
     .row.mb-5.align-items-center
       .col-lg-5.mb-4.mb-md-0(data-aos="fade-right")
         img.img-a(src='@/assets/curso/temas/tema_1/img_41.png', alt='Texto que describa la imagen')
@@ -511,12 +523,14 @@
 
     .row.justify-content-center.mb-5
       .col-lg-11
-        .bloque-texto-g.color-primario.p-5.p-sm-4.p-md-5
-          .bloque-texto-g__img.m-left(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_51.png')})`}"
-          )
-          .bloque-texto-g__texto.py-3.px-3.txt-g.bloque-g-txt.txt_caj
-            p.mb-0.text-small El Ministerio de ambiente y desarrollo sostenible de Colombia (2020), viene implementado el programa Promotores ambientales comunitarios, como una herramienta para el cumplimiento de la estrategia contenida en la Política nacional de educación ambiental, denominada Formación de educadores y dinamizadores ambientales, cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos, que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, buscando dinamizar las entidades territoriales, con la garante de construir una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
+
+        .bloque-texto-a.color-primario.mt-5.bloque1_2.mb-5(style="background-color:transparent;position:relative;z-index:1;")
+          .row.m-0.align-items-center.justify-content-between(style="position:relative")
+            .col-lg-8.p-5.order-2.order-lg-0
+              .bloque-texto-a__texto.p-4(style="position:relative")
+                p.mb-0.text-small(data-aos="fade-up") El Ministerio de ambiente y desarrollo sostenible de Colombia (2020), viene implementado el programa Promotores ambientales comunitarios, como una herramienta para el cumplimiento de la estrategia contenida en la Política nacional de educación ambiental, denominada Formación de educadores y dinamizadores ambientales, cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos, que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, buscando dinamizar las entidades territoriales, con la garante de construir una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
+
+    
 
 
     separador
