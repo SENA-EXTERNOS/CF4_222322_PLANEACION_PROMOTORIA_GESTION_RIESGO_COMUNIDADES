@@ -522,7 +522,7 @@
     h3.mb-5 Objetivos y estrategias de la promoción ambiental
 
     .row.justify-content-center.mb-5
-      .col-lg-11
+      .col-lg-10
 
         .bloque-texto-a.color-primario.mt-5.bloque1_2.mb-5(style="background-color:transparent;position:relative;z-index:1;")
           .row.m-0.align-items-center.justify-content-between(style="position:relative")
