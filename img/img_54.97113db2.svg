@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="95" height="95" viewBox="0 0 95 95">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_5294" data-name="Elipse 5294" cx="47.5" cy="47.5" r="47.5" transform="translate(753 604)" fill="#e8e8e8"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_294288" data-name="Rectángulo 294288" width="163.781" height="95.545" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_88" data-name="Enmascarar grupo 88" transform="translate(-753 -604)" clip-path="url(#clip-path)">
+    <g id="Grupo_882190" data-name="Grupo 882190" transform="translate(-147.908 199.423)">
+      <g id="Grupo_882189" data-name="Grupo 882189" transform="translate(867.127 404.386)">
+        <g id="Grupo_882188" data-name="Grupo 882188">
+          <g id="Grupo_882187" data-name="Grupo 882187" clip-path="url(#clip-path-2)">
+            <rect id="Rectángulo_294285" data-name="Rectángulo 294285" width="163.781" height="31.854" transform="translate(0 31.855)" fill="#fff"/>
+            <rect id="Rectángulo_294286" data-name="Rectángulo 294286" width="163.781" height="31.855" fill="#1e2788"/>
+            <rect id="Rectángulo_294287" data-name="Rectángulo 294287" width="163.781" height="31.836" transform="translate(0 63.709)" fill="#cb0028"/>
+          </g>
+        </g>
+      </g>
+      <path id="Trazado_621970" data-name="Trazado 621970" d="M909.722,407.394l10.191,20.65,22.788,3.312-16.49,16.074,3.893,22.7L909.722,459.41l-20.383,10.716,3.893-22.7-16.49-16.074,22.789-3.312Z" transform="translate(37.309 11.674)" fill="#cb0028" stroke="#fbb03b" stroke-miterlimit="10" stroke-width="0.8"/>
+    </g>
+  </g>
+</svg>
